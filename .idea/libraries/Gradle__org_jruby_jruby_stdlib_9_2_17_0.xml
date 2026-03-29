@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jruby:jruby-stdlib:9.2.17.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jruby" artifactId="jruby-stdlib" version="9.2.17.0" baseVersion="9.2.17.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-stdlib/9.2.17.0/bd278e52b18c23dd6ae5334df9f219e751dcdb3a/jruby-stdlib-9.2.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
